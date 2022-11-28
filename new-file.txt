@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a new file with changes on the main branch
+=======
+Changes in authentication branch
+>>>>>>> authentication
